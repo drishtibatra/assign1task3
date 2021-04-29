@@ -1,0 +1,9 @@
+CREATE TABLE expression 
+->(gene varchar(255),expr_value int();
+->INSERT INTO expression VALUES('alr1207',8303);
+->INSERT INTO expression VALUES('alr2938',10323);
+->INSERT INTO expression VALUES('alr3395',1432);
+->INSERT INTO expression VALUES('alr3556',8043);
+->INSERT INTO expression VALUES('alr4392',729);
+->INSERT INTO expression VALUES('alr4851',633);
+->INSERT INTO expression VALUES('alr5000',5732);
