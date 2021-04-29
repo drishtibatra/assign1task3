@@ -1,0 +1,3 @@
+SELECT  m.FirstName, m.LastName, m.MemberID 
+FROM Member m 
+WHERE m.Coach  = ‘’;
