@@ -1,0 +1,1 @@
+SELECT  FirstName, LastName, MemberID FROM Member  WHERE member.MemberID = club.clubMemberID;
